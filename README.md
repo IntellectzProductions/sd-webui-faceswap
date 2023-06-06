@@ -6,6 +6,8 @@ The main objective of this extension is to enable face swapping for single image
 
 To ensure compatibility, this extension currently runs only on CPU. However, it can be easily ported to GPU for improved performance.
 
+![example](example/example.png)
+
 **Ethical viewpoint :** The primary purpose of this extension is to facilitate consistency in generated images by enabling face swapping. It is important to note that this extension does not implement censorship features. While censorship mechanisms can be implemented (as does roop), they are inherently vulnerable to bypass when users have access to the source code. Therefore, it is crucial to use this extension responsibly and refrain from utilizing it for malicious purposes. We strongly emphasize the ethical use of this extension. Please respect the privacy and consent of individuals when swapping faces in images. Do not engage in activities that may cause harm, violate privacy rights, or infringe upon the well-being of others. 
 
 ## Install
