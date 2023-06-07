@@ -17,6 +17,8 @@ To install the extension, follow these steps:
 + Clone the repository to your automatic 1111 extensions directory.
 + Download the pre-trained model used by "Roop" and place it in the models directory of this extension. The model file required is "inswapper_128.onnx".Mirrors are given the roop project [installation guide](https://github.com/s0md3v/roop/wiki/1.-Installation).
 
+On Windows, Microsoft Visual C++ 14.0 or greater is required. [During the install, make sure to include the Python and C++ packages.](https://github.com/s0md3v/roop/issues/153)
+
 # Usage
 
 To use the FaceSwap extension, follow these instructions:
